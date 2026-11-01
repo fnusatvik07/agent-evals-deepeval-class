@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python and tooling
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.deepeval/
+.DS_Store
+
+# Files the notebooks write when you run them
+pricing.py
+test_pricing.py
+travel_bot.py
+test_travel_bot.py
+travel_tools.py
+travel_agent.py
+test_cases.py
+prompts.py
+test_travel_agent.py
+last_experiment.json
+answers_to_review.json
