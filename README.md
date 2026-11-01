@@ -26,7 +26,11 @@ Open them in order. Each one builds on the last.
 
 ## Video
 
-The opening video is coming soon.
+A 2 minute opening video to play at the start of the class. It tells the whole story in short: why pytest breaks on agents, how DeepEval works, and what the class builds.
+
+[![Watch the opening video](video/poster.jpg)](video/agent-evaluation-with-deepeval.mp4)
+
+[Download the video (MP4, 2 min, 1080p)](video/agent-evaluation-with-deepeval.mp4)
 
 ## Quick start
 
